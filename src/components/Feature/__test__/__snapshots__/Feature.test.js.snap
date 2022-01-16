@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeatureList Feature Initialized 1`] = `
+<div
+  className="Feature"
+>
+  <label>
+    <span
+      className="GreyBox"
+    />
+    <span>
+      ALERT RULES
+    </span>
+  </label>
+  <div
+    className="ToggleWithMax"
+  >
+    <select
+      className="Select"
+      onChange={[Function]}
+      value={10}
+    >
+      <option
+        value={5}
+      >
+        5
+      </option>
+      <option
+        value={10}
+      >
+        10
+      </option>
+      <option
+        value={20}
+      >
+        20
+      </option>
+      <option
+        value={50}
+      >
+        50
+      </option>
+    </select>
+    <div
+      className="form-switch"
+    >
+      <input
+        checked={false}
+        className="form-check-input"
+        disabled={false}
+        id={32}
+        onChange={[Function]}
+        type="checkbox"
+      />
+    </div>
+  </div>
+</div>
+`;
